@@ -1,0 +1,15 @@
+ 
+Bonjour {firstname} {lastname},
+
+Veuillez trouver ci-dessous le suivi mensuel de vos ventes sur site.
+
+{message}
+
+Prénom : {firstname}
+Nom : {lastname}
+Email : {email}
+Adresse postale : {address}
+Code postal : {zip}
+Ville : {city}
+
+({shop_url})

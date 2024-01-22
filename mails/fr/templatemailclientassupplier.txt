@@ -1,0 +1,12 @@
+ 
+Bonjour {firstname} {lastname},
+
+Veuillez trouver ci-dessous le suivi mensuel de vos ventes sur website.
+
+{message}
+
+Ne manquez pas votre code promo à usage unique de 10% website.
+
+({shop_url})
+
+Powered by Prestashop
